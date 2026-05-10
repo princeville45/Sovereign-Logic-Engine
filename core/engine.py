@@ -1,5 +1,5 @@
 class TradespaceEvaluator:
-    \"\"\"Evaluates mission-critical business decisions.\"\"\"
+    """Evaluates mission-critical business decisions."""
     def __init__(self, daily_revenue, script_quota, study_hours):
         self.daily_revenue = daily_revenue
         self.script_quota = script_quota

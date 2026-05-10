@@ -19,5 +19,7 @@ jobs:
       with:
         python-version: "3.12"
     - name: Run Core Logic Simulation
+      env:
+        PYTHONPATH: .
       run: |
         python scripts/run_analysis.py

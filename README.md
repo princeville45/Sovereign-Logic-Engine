@@ -1,32 +1,71 @@
-# Sovereign-Logic-Engine 🏛️
-**A Tradespace Evaluation Framework for Hybrid Revenue Operations.**
+# Sovereign Logic Engine
 
-Most people solve problems with apps. Architects solve problems with Tradespace Analysis.
+> The open-source framework for personal RevOps and hybrid asset scaling.
 
-## Overview
-Sovereign-Logic-Engine is a professional modeling framework designed to evaluate mission-critical decisions for the Hybrid Architect. This is for individuals bridging physical logistics, stock management, and high-value digital content production.
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![Domain](https://img.shields.io/badge/Domain-Personal%20RevOps-purple)
 
-Inspired by Mars mission tradespace architectures, this engine treats business decisions as Mission Parameters to find the optimal path to growth and asset acquisition.
+---
 
-## Project Structure
-* core: The simulation engine that evaluates interaction between operational decisions.
-* models: Parameter definitions for Inventory, Content Velocity, and Capital Efficiency.
-* scripts: Utilities for running tradespace analysis and debugging logistics.
-* visualizations: Data-driven plotting scripts to visualize the path to 1.2M.
-* tests: Unit tests ensuring logic integrity across the RevOps stack.
+## The Concept
 
-## The Tradespace Advantage
-Unlike standard trackers, this engine doesn't just record what happened, it models what could happen.
+Most RevOps frameworks are built for corporations. This one is built for the individual — the one-person operation running multiple income streams, managing personal assets, and scaling without a team.
 
-* Trajectory Modeling: Forecasts your path to Runway ML based on variable depot sales and script output.
-* Constraint Optimization: Identifies bottlenecks in your daily schedule, like when Depot hours cannibalize Study hours.
-* Normalization Logic: Automatically indexes local NGN performance against global treasury standards.
+The Sovereign Logic Engine is a personal Revenue Operations system. It treats your life like a business and your decisions like data.
 
-## Usage
-This project utilizes uv for package and virtual environment management.
+---
 
-To run a funding tradespace analysis:
-uv run scripts/run_analysis.py --mode funding --target 1200000
+## What It Does
 
-Maintained by Prince Victor
-Status: Active Development
+### Personal Revenue Command Center
+- Tracks all income streams (salary, digital, crypto, freelance) in one system
+- Revenue velocity analysis — which streams are growing, which are stalling
+- Net worth delta tracking over time
+
+### Asset Intelligence Layer
+- Monitors digital and physical asset performance
+- Rebalancing logic based on statistical thresholds
+- Crypto portfolio integration with live price feeds
+
+### Decision Architecture
+- Converts personal financial goals into measurable KPIs
+- Weekly auto-reports on progress toward targets
+- Alert system for threshold breaches
+
+### Automation Layer
+- Cron-driven daily data pulls
+- Google Sheets live dashboard sync
+- Modular — plug in any income stream
+
+---
+
+## Who This Is For
+
+Builders, operators, and hustlers who want to run their personal finances with the same rigor as a business. Especially relevant for individuals in emerging markets managing multiple income streams.
+
+---
+
+## Tech Stack
+
+| Layer | Tools |
+|---|---|
+| Language | Python 3.9+ |
+| Data Layer | pandas, numpy |
+| Live Data | requests, crypto APIs |
+| Dashboard | Google Sheets API |
+| Scheduling | cron, GitHub Actions |
+
+---
+
+## About the Architect
+
+**Irem Victor Chinonso** — Statistical Business Architect, Ife, Nigeria.
+HubSpot RevOps & Reporting Certified. B.Sc. Statistics @ OAU.
+
+- Email: princeville45@gmail.com
+- GitHub: [github.com/princeville45](https://github.com/princeville45)
+
+---
+
+*Sovereignty is a system. Build yours.*

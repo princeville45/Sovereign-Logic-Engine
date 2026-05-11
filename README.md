@@ -19,24 +19,24 @@ The Sovereign Logic Engine is a personal Revenue Operations system. It treats yo
 ## What It Does
 
 ### Personal Revenue Command Center
-- Tracks all income streams (salary, digital, crypto, freelance) in one system
-- Revenue velocity analysis — which streams are growing, which are stalling
-- Net worth delta tracking over time
+. Tracks all income streams (salary, digital, crypto, freelance) in one system
+. Revenue velocity analysis — which streams are growing, which are stalling
+. Net worth delta tracking over time
 
 ### Asset Intelligence Layer
-- Monitors digital and physical asset performance
-- Rebalancing logic based on statistical thresholds
-- Crypto portfolio integration with live price feeds
+. Monitors digital and physical asset performance
+. Rebalancing logic based on statistical thresholds
+. Crypto portfolio integration with live price feeds
 
 ### Decision Architecture
-- Converts personal financial goals into measurable KPIs
-- Weekly auto-reports on progress toward targets
-- Alert system for threshold breaches
+. Converts personal financial goals into measurable KPIs
+. Weekly auto-reports on progress toward targets
+. Alert system for threshold breaches
 
 ### Automation Layer
-- Cron-driven daily data pulls
-- Google Sheets live dashboard sync
-- Modular — plug in any income stream
+. Cron-driven daily data pulls
+. Google Sheets live dashboard sync
+. Modular — plug in any income stream
 
 ---
 
@@ -63,8 +63,8 @@ Builders, operators, and hustlers who want to run their personal finances with t
 **Irem Victor Chinonso** — Statistical Business Architect, Ife, Nigeria.
 HubSpot RevOps & Reporting Certified. B.Sc. Statistics @ OAU.
 
-- Email: princeville45@gmail.com
-- GitHub: [github.com/princeville45](https://github.com/princeville45)
+. Email: princeville45@gmail.com
+. GitHub: [github.com/princeville45](https://github.com/princeville45)
 
 ---
 
